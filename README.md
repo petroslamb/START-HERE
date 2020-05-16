@@ -2,7 +2,7 @@
 
 List of my repos on Github.
 
-1. Presentation @ICLR2020 of a lightning talk on the CyberSecurity social event, on [NLP+CyberSecurity](https://github.com/petroslamb/NLP-CyberSecurity-Analytics)
+1. Presentation at [#ICLR2020](https://twitter.com/search?q=%23ICLR2020&src=typeahead_click) of a lightning talk on the CyberSecurity social event, on [NLP+CyberSecurity](https://github.com/petroslamb/NLP-CyberSecurity-Analytics)
 
 2. NLP notebooks and other problems I liked, especially [Alzheimer's text classification](https://github.com/petroslamb/nlp-notebooks)
 
