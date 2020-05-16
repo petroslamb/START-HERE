@@ -4,7 +4,7 @@ List of my repos on Github.
 
 1. Presentation at [#ICLR2020](https://twitter.com/search?q=%23ICLR2020&src=typeahead_click) of a lightning talk on the CyberSecurity social event, on [NLP+CyberSecurity](https://github.com/petroslamb/NLP-CyberSecurity-Analytics)
 
-2. NLP notebooks and other problems I liked, especially [Alzheimer's text classification](https://github.com/petroslamb/nlp-notebooks)
+2. [NLP notebooks](https://github.com/petroslamb/nlp-notebooks) and other problems I liked, especially on [Alzheimer's text classification](https://github.com/petroslamb/nlp-notebooks)
 
 3. An effort for a production grade [Flask server to serve TensorFlow models](https://github.com/petroslamb/flask-ml-server), with model failsafes, extensive configuration, Swagger and many other features, written in 5 days flat (which means it needs some cleanup)!
 
