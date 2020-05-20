@@ -1,6 +1,6 @@
 # START-HERE
 
-A list of my repos on Github, for orientation.
+A list of my repos, for orientation.
 
 1. A [presentation](https://github.com/petroslamb/NLP-CyberSecurity-Analytics/blob/master/ICLR_Cybersecurity_NLP.pdf) at [#ICLR2020](https://iclr.cc/virtual/index.html) of a lightning talk on the CyberSecurity social event, on [NLP+CyberSecurity](https://github.com/petroslamb/NLP-CyberSecurity-Analytics).
 
