@@ -6,7 +6,7 @@ A list of my repos on Github, for orientation.
 
 2. Some [NLP notebooks](https://github.com/petroslamb/nlp-notebooks) and other problems I liked, especially on [Alzheimer's text classification](https://github.com/petroslamb/nlp-notebooks).
 
-3. Towards a production grade [Flask server to serve TensorFlow models](https://github.com/petroslamb/flask-ml-server), written in 5 days flat (which means it needs some more work).
+3. Towards a production grade [Flask server to serve TensorFlow models](https://github.com/petroslamb/flask-ml-server), written in 5 days flat, which means it needs some more work. :)
 
 4. A [showcase Data Science project](https://github.com/petroslamb/taxi-rides), predicting taxi ride demand for the city of Lima.
 
